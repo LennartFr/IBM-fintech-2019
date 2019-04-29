@@ -4,6 +4,8 @@
 
 72 countries, 47 currencies, 44 banking endpoints and more than 1081 unique currency trading pairs. IBM Blockchain World Wire is here.
 
+[IBM Blockchain for Trade Finance](https://www.ibm.com/blockchain/solutions/trade-finance)
+
 
 # IBM Fintech services in the IBM Cloud
 
