@@ -30,4 +30,4 @@
 
 # IBM Fintech development patterns
 
-[IBM Fintech code patterns\(https://developer.ibm.com/patterns/?fa=date%3ADESC&fb=)
+[IBM Fintech code patterns](https://developer.ibm.com/patterns/?fa=date%3ADESC&fb=)
