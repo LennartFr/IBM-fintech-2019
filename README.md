@@ -28,5 +28,6 @@
 [Sinmulated Instrument Analytics](https://cloud.ibm.com/catalog/services/simulated-instrument-analytics)
 
 
-
 # IBM Fintech development patterns
+
+[IBM Fintech code patterns\(https://developer.ibm.com/patterns/?fa=date%3ADESC&fb=)
